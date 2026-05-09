@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+reading_*.png
+.DS_Store

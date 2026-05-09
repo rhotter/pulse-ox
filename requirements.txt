@@ -1,0 +1,4 @@
+mss>=9.0.1
+opencv-python>=4.10.0
+numpy>=1.26
+matplotlib>=3.8
