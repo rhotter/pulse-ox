@@ -6,6 +6,8 @@ Tested with the **Mobi** pulse oximeter app — should work with any plot that
 has a moving cursor leaving a trailing colored trace (the default detector
 expects a blue trace).
 
+![demo](demo.gif)
+
 ## Run
 
 ```sh
